@@ -16,6 +16,10 @@ binding.add('text', plugin);
 ...
 ```
 
+```html
+<p data-text="paragraph"></p>
+```
+
 ## License
 
   MIT
