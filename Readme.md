@@ -1,7 +1,7 @@
 
 # text-plugin
 
-  Text plugin for (data binding)[https://github.com/bredele/data-binding]
+  Text plugin for [data binding](https://github.com/bredele/data-binding)
 
 ## Installation
 
