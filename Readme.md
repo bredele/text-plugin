@@ -7,7 +7,7 @@
 
     $ component install bredele/text-plugin
 
-## Example
+## Usage
 
 ```js
 var plugin = require('text-plugin');
