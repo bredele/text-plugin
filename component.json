@@ -1,0 +1,14 @@
+{
+  "name": "text-plugin",
+  "repo": "bredele/text-plugin",
+  "description": "Text plugin for data binding",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
