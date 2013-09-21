@@ -1,11 +1,10 @@
-
 # text-plugin
 
   Text plugin for [data binding](https://github.com/bredele/data-binding)
 
 ## Installation
 
-    $ component install bredele/text-plugin
+    $ component install leafs/text-plugin
 
 ## Usage
 
