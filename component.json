@@ -1,6 +1,6 @@
 {
   "name": "text-plugin",
-  "repo": "leafs/text-plugin",
+  "repo": "bredele/text-plugin",
   "description": "Text plugin for data binding",
   "version": "0.0.1",
   "keywords": [],
